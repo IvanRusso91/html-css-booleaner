@@ -1,0 +1,44 @@
+
+body{
+  margin: 0;
+  font-family: 'Times New Roman', Times, serif;
+}
+/* Testata */
+
+header div{
+  background-image: url(../img/pattern.png);
+  background-color: rgb(78, 160 , 255);
+  background-size: 30%;
+  margin: auto; 
+}
+
+.logo{
+  height: 50px;
+  margin-top: 50px;
+  margin-left: 50px;
+}
+
+/* /testata */
+
+/* Comandi prmia sezione */
+section h1{
+  font-size: 40px; 
+  margin-top: 2%;
+  margin-bottom: 0px; 
+}
+
+.text-lightblue{
+  color:rgb(43, 173 , 230);
+}
+
+.sotto-testo{
+  color: lightgray;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.intestazione{
+  margin-top: 0px;
+  margin-bottom:0px ;
+}
+/* /comandi prima sezione */
