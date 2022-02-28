@@ -52,3 +52,51 @@ section h1{
 .elenco{
   padding-left: 2%;
 }
+/* /seconda sezione */
+
+/* TABELLA */
+
+table{
+  border-collapse: collapse;
+}
+
+/* riga di testa */
+thead{
+  background-color:rgb(43, 173 , 230);
+}
+
+.titolo-primo{
+  width: 25%;
+  text-align: left;
+}
+
+
+.titolo-secondo{
+  width: 25%;
+  text-align: center;
+}
+
+.titolo-terzo{
+  width: 50%;
+  text-align: left;
+}
+
+/* /riga di testa */
+
+/* comandi del corpo */
+.riga-blue{
+  background-color: rgb(177, 229, 242);
+  text-align: center;
+}
+
+.riga{
+  text-align: center;
+}
+
+.colonna-blue{
+  background-color: rgb(177, 229, 242) ;
+}
+
+.colonna-tre{
+  text-align: left;
+}
