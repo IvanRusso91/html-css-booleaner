@@ -42,3 +42,13 @@ section h1{
   margin-bottom:0px ;
 }
 /* /comandi prima sezione */
+
+/* seconda sezione  */
+
+.yellow-text{
+  background-color: yellow;
+}
+
+.elenco{
+  padding-left: 2%;
+}
