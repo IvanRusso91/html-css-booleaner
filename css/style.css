@@ -100,3 +100,32 @@ thead{
 .colonna-tre{
   text-align: left;
 }
+/* /comandi corpo */
+
+/* footer */
+
+.gray-text{
+  color: lightgray;
+  margin-bottom: 0px;
+}
+
+.monitor{
+  height: 100px;
+  width: 150px;
+  background-size: cover;
+  background-image: url(../img/monitor.jpg);
+}
+
+.grafico{
+  height: 100px;
+  width: 150px;
+  background-size: cover;
+  background-image: url(../img/graph.jpg);
+}
+
+.text{
+  color: aliceblue;
+  margin-top: 5px;
+}
+
+/* /footer */
