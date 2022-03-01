@@ -21,6 +21,13 @@ header div{
 /* /testata */
 
 /* Comandi prmia sezione */
+
+.contenitore{
+  padding-left: 2%;
+  padding-right: 2%;
+}
+
+
 section h1{
   font-size: 40px; 
   margin-top: 2%;
@@ -129,3 +136,4 @@ thead{
 }
 
 /* /footer */
+
